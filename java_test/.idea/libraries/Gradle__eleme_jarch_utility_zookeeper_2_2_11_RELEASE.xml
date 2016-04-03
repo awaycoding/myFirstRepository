@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: eleme-jarch:utility-zookeeper:2.2.11-RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/eleme-jarch/utility-zookeeper/2.2.11-RELEASE/ece8ab42a5769af7b0bd01fc854234c0137ed2db/utility-zookeeper-2.2.11-RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/eleme-jarch/utility-zookeeper/2.2.11-RELEASE/2ccdf7a5047638b7593bf1bc4c80b438942a7742/utility-zookeeper-2.2.11-RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$USER_HOME$/java_test_2" />
+        <option name="gradleHome" value="$USER_HOME$/java_test_2" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/java_test_2" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$USER_HOME$/workplace/apos.goods.consumer.brushproducts" />
+        <option name="gradleHome" value="$USER_HOME$/gradle-2.12" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/workplace/apos.goods.consumer.brushproducts" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$USER_HOME$/workplace/miracle-food" />
+        <option name="gradleHome" value="$USER_HOME$/gradle-2.12" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/workplace/miracle-food" />
+            <option value="$USER_HOME$/workplace/miracle-food/miracle-food-api" />
+            <option value="$USER_HOME$/workplace/miracle-food/miracle-food-server" />
+            <option value="$USER_HOME$/workplace/miracle-food/miracle-food-test" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

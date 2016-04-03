@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="apos.goods.consumer.brushproducts:main" external.linked.project.path="$USER_HOME$/workplace/apos.goods.consumer.brushproducts" external.root.project.path="$USER_HOME$/workplace/apos.goods.consumer.brushproducts" external.system.id="GRADLE" external.system.module.group="" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="false">
+    <output url="file://$USER_HOME$/workplace/apos.goods.consumer.brushproducts/build/classes/main" />
+    <exclude-output />
+    <content url="file://$USER_HOME$/workplace/apos.goods.consumer.brushproducts/src/main">
+      <sourceFolder url="file://$USER_HOME$/workplace/apos.goods.consumer.brushproducts/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/workplace/apos.goods.consumer.brushproducts/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: eleme-jarch:pylon-core:1.2.37-RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: com.rabbitmq:amqp-client:3.5.6" level="project" />
+    <orderEntry type="library" name="Gradle: me.ele.napos:miracle-food-api:0.6.2-RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: me.ele.napos:miracle-restaurant-api:0.6.2-RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: ch.qos.logback:logback-classic:1.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.projectlombok:lombok:1.16.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.guava:guava:18.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.inject:guice:4.0" level="project" />
+    <orderEntry type="library" name="Gradle: eleme-jarch:pylon-contract:1.2.37-RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: eleme-jarch:utility-netty:2.2.21-RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: eleme-jarch:utility-httpclient:2.2.21-RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: eleme-jarch:utility-jackson:2.2.21-RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: eleme-jarch:utility-metrics:2.2.21-RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: eleme-jarch:utility-trace:2.2.21-RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: eleme-jarch:register-server:1.1.15-RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: eleme-jarch:configcenter-client:1.0.14-RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: me.ele.napos:vine-api:0.9.3-RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: me.ele.napos:miracle-carrier-api:0.3.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-all:4.0.26.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpclient:4.2.5" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.4.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.4.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.4.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.timgroup:java-statsd-client:3.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.zookeeper:zookeeper:3.4.6" level="project" />
+    <orderEntry type="library" name="Gradle: eleme-jarch:configcenter-core:1.0.14-RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: me.ele.napos:miracle-zeus-api:0.1.2-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Gradle: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" name="Gradle: aopalliance:aopalliance:1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-log4j12:1.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: log4j:log4j:1.2.16" level="project" />
+    <orderEntry type="library" name="Gradle: jline:jline:0.9.94" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty:3.7.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: eleme-jarch:utility-zookeeper:2.2.11-RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: junit:junit:3.8.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.curator:curator-framework:2.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.curator:curator-recipes:2.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.curator:curator-client:2.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: eleme-jarch:utility-elog:2.2.21-RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: ch.qos.logback:logback-core:1.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: eleme-jarch:utility-etrack:2.2.21-RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: eleme-jarch:utility-utils:2.2.21-RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: net.jcip:jcip-annotations:1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore:4.2.4" level="project" />
+    <orderEntry type="library" name="Gradle: commons-logging:commons-logging:1.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.6" level="project" />
+  </component>
+</module>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":miracle-food-test:test" external.linked.project.path="$USER_HOME$/workplace/miracle-food/miracle-food-test" external.root.project.path="$USER_HOME$/workplace/miracle-food" external.system.id="GRADLE" external.system.module.group="miracle-food" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="false">
+    <output-test url="file://$USER_HOME$/workplace/miracle-food/miracle-food-test/build/classes/test" />
+    <exclude-output />
+    <content url="file://$USER_HOME$/workplace/miracle-food/miracle-food-test/src/test">
+      <sourceFolder url="file://$USER_HOME$/workplace/miracle-food/miracle-food-test/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/workplace/miracle-food/miracle-food-test/src/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="miracle-food-test_main" />
+  </component>
+  <component name="TestModuleProperties" production-module="miracle-food-test_main" />
+</module>
